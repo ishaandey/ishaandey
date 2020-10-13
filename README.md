@@ -1,9 +1,5 @@
 ### Hey there! 👋
 
-<a href="https://www.linkedin.com/in/ishaan-dey/">
-  <img align="left" alt="Ishaan Dey | Linkedin" width="21px" src="https://raw.githubusercontent.com/christianfjung/christianfjung/master/icons/linkedin.svg" />
-</a>
-
 <br />
 <br />
 
@@ -13,10 +9,9 @@
 
 <p> Feel free to say hi, I’d love to chat.  </p>
 
-
-<p align="center">
-[![My github stats](https://github-readme-stats.vercel.app/api?username=ishaandey&hide=prs,)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+<a href="https://www.linkedin.com/in/ishaan-dey/">
+  <img align="left" alt="Ishaan Dey | Linkedin" width="21px" src="https://raw.githubusercontent.com/christianfjung/christianfjung/master/icons/linkedin.svg" />
+</a>
 
 <!--
 **ishaandey/ishaandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
