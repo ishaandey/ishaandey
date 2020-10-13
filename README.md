@@ -7,10 +7,10 @@
 <p> Feel free to say hi, I’d love to chat.  </p>
 
 <a href="https://www.linkedin.com/in/ishaan-dey/">
-  <img align="left" alt="Ishaan Dey | Linkedin" width="30px" src="mail-icon.svg" />
+  <img align="left" alt="Ishaan Dey | Linkedin" width="30px" src="ln-icon.svg" />
 </a> 
-<a href="ishaan.dey@virginia.edu">
-  <img align="left" alt="Ishaan Dey | Email" width="30px" src="ln-icon.svg" />
+<a href="mailto:ishaan.dey@virginia.edu">
+  <img align="left" alt="Ishaan Dey | Email" width="30px" src="mail-icon.svg" />
 </a>
 
 <!--
