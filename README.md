@@ -6,10 +6,10 @@
 
 <p> Feel free to say hi, I’d love to chat.  </p>
 
-<a href="https://www.linkedin.com/in/ishaan-dey/">
+<a href="https://www.linkedin.com/in/ishaan-dey/" target="_blank">
   <img align="left" alt="Ishaan Dey | Linkedin" width="30px" src="ln-icon.svg" />
 </a> 
-<a href="mailto:ishaan.dey@virginia.edu">
+<a href="mailto:ishaan.dey@virginia.edu" target="_blank">
   <img align="left" alt="Ishaan Dey | Email" width="30px" src="mail-icon.svg" />
 </a>
 
